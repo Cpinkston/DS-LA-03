@@ -1,6 +1,6 @@
 GADSLA_1403
 ===========
-General Assembly Data Science, Los Angeles, March 2014
+General Assembly Data Science, Los Angeles, June 2014
 ------------------------------------------------------
 ### [Final "Happy Fun" Project Info](https://github.com/adparker/GADSLA_1403/wiki/Final-Project-Requirements)
 - Presentation and Report Due last day of class, Thursday May 15th.
