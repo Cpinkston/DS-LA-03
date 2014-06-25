@@ -50,7 +50,7 @@ Here, you'll find links to slides, handouts, and other material.
 ### Instructor Contact Information
 - Yasin Dara, yasin.s.dara@gmail.com
 - Cell: (612)-208-7364 (Yes, it's okay!)
-- 
+
 ### Course Trello Board
 
 https://trello.com/b/LBJi9D1A/ds-los-angeles-summer-2014
