@@ -1,0 +1,12 @@
+PyRSS2Gen==1.0.0
+altgraph==0.10.1
+bdist-mpkg==0.4.4
+beautifulsoup4==4.3.2
+pyreadline==1.7.1
+ipython==2.1.0
+macholib==1.5
+modulegraph==0.10.1
+python-dateutil==1.5
+virtualenv==1.11.6
+wsgiref==0.1.2
+zope.interface==3.8.0
