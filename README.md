@@ -1,16 +1,16 @@
 General Assembly Data Science, Los Angeles, June 2014
 ------------------------------------------------------
-### [Final "Happy Fun" Project Info](https://github.com/adparker/GADSLA_1403/wiki/Final-Project-Requirements)
+### [Final "Happy Fun" Project Info](https://github.com/ga-students/DS-LA-03/wiki/Final-Project-Requirements)
 - Presentation and Report Due on Last Day of Class.
-- [Project Ideas and Data](https://github.com/adparker/GADSLA_1403/wiki/Project-Ideas-and-Data)
+- [Project Ideas and Data](https://github.com/ga-students/DS-LA-03/wiki/Project-Ideas-and-Data)
 
 ### Useful Books
-- [A list of useful books](https://github.com/adparker/GADSLA_1403/wiki/Books)
+- [A list of useful books](https://github.com/ga-students/DS-LA-03/wiki/Books)
 
 ### General Info
 Here, you'll find links to slides, handouts, and other material.
 - [General Assembly Class Information](https://generalassemb.ly/education/data-science/los-angeles)
-- [General Resources](https://github.com/adparker/GADSLA_1403/wiki/Lesson-00-General-Resources): Links to Python and other tools and libraries that we'll be using.
+- [General Resources](https://github.com/ga-students/DS-LA-03/wiki/Lesson-00-General-Resources): Links to Python and other tools and libraries that we'll be using.
 
 
 ### Key Dates
