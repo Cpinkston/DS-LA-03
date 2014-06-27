@@ -12,6 +12,7 @@ Here, you'll find links to slides, handouts, and other material.
 - 09/09/2014: Last Day of Class
 
 ### Classes
+- Class 0 : [Install Party - Installing Python & Other Dependencies](https://github.com/ga-students/DS-LA-03/blob/master/slides/DSInstallParty.pdf)
 - Class 1 : [Introduction to Data Science & Basic Data Manipulation](https://github.com/ga-students/DS-LA-03/wiki/Lesson-01-Introduction-to-Data-Science-&-Basic-Data-Manipulation)
 - Class 2 : [Python & Data Parsing](https://github.com/ga-students/DS-LA-03/wiki/Lesson-02-Python-&-Data-Parsing)
 - Class 3 : [SQL & Python](https://github.com/ga-students/DS-LA-03/wiki/Lesson-03-SQL-&-Python)
